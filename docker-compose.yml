@@ -1,0 +1,7 @@
+services:
+  fastjson1247:
+    build: .
+    container_name: fastjson1247
+    restart: always
+    ports:
+      - "8080:8080"

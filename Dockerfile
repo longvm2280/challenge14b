@@ -1,0 +1,1 @@
+FROM netereo2280/fastjson1247
